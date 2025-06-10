@@ -17,6 +17,7 @@
 .logotipo{
     width: 10%;
     text-align: center;
+
     
 }
 .titulo{
@@ -24,3 +25,15 @@
     text-align: center;
    
 }
+
+.corpotexto{
+    background-color: #CFD0C1;
+
+}
+
+.texto{
+    text-align: center;
+    width: 100%;
+
+}
+
